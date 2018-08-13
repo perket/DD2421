@@ -4,7 +4,7 @@ This repo contains the labs for DD2421 at KTH where we implemented three differe
 
 ## Lab 1 - Decision Trees
 Description:
-[Report](../blob/master/Lab%201/DD2421_Lab_1_Decision_Trees_report.pdf "Report")
+[Report](../master/Lab%201/DD2421_Lab_1_Decision_Trees_report.pdf "Report")
 
 ## Lab 2 - Stochastic Vector Machines (SVM)
 Description:
